@@ -1,4 +1,4 @@
-- 🛠️ I am currently researching Lua and Garry's Mod API for developing addons.
-- 🪛 I have developed plugins and mods for Minecraft in the past.
+- 🛠️ I am currently researching and experimenting with Spigot API.
+- 🪛 I have developed plugins and mods for Minecraft in the past (currently doing this again)
 - ⚗️ I have also made experimental projects in Unity and Roblox Studio.
 - 💬 Ask me questions about programming or any of the projects listed above!
