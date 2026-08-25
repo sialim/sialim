@@ -10,5 +10,7 @@ I work on Blender/Gmod pipelines, model extraction from obscure Japanese games, 
 - **JavaScript:** WebExtensions API and Manifest V3
 - **Tooling:** Blender, MMD Tools, Gradle, PyInstaller, and Source Engine model pipelines
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sialim&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sialim&layout=compact&theme=transparent)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sialim&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sialim&layout=compact&theme=transparent" />
+</p>
