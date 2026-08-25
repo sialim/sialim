@@ -1,4 +1,11 @@
-- 🛠️ I am currently researching and experimenting with Spigot API.
-- 🪛 I have developed plugins and mods for Minecraft in the past (currently doing this again)
-- ⚗️ I have also made experimental projects in Unity and Roblox Studio.
-- 💬 Ask me questions about programming or any of the projects listed above!
+## Programmer, reverse engineer, and game-modding toolmaker.
+I work on Blender/Gmod pipelines, model extraction from obscure Japanese games, proprietary formats, XTEA encryption, Minecraft plugins, and automation tools.
+
+### Languages & Tools
+
+- **Python:** NumPy, Pillow, PySide6, PyOpenGL, trimesh, SciPy, scikit-learn, Blender Python API
+- **Java:** Paper/Bukkit, Gson, Adventure/MiniMessage, PlaceholderAPI, ProtocolLib, PacketEvents, Citizens
+- **C#/.NET:** Windows Forms, SlimDX, Jolt Physics, Unity asset tooling
+- **Lua:** Garry’s Mod Lua API
+- **JavaScript:** WebExtensions API and Manifest V3
+- **Tooling:** Blender, MMD Tools, Gradle, PyInstaller, and Source Engine model pipelines
